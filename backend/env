@@ -1,0 +1,6 @@
+MONGOURL = "mongodb://127.0.0.1:27017/chat-clone"
+EMAIL_USER="aqueebsayyed@gmail.com"
+EMAIL_PASS="ddyhtocejunqeauz"
+JWT_SECRET="chatroomauth"
+FRONTEND_URL="http://localhost:5173"
+REDIS_URL="redis://localhost:6379"
